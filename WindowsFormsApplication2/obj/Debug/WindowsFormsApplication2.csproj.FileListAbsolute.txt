@@ -1,0 +1,60 @@
+C:\Users\涂家豪\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\涂家豪\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\涂家豪\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\涂家豪\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\涂家豪\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\涂家豪\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\涂家豪\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\涂家豪\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\myproject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\myproject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\myproject\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\myproject\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\myproject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\myproject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\myproject\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\20181003_售服問題創資料夾\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\USER\Desktop\20181003_售服問題創資料夾\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\USER\Desktop\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\USER\Desktop\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\USER\Desktop\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\USER\Desktop\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\USER\Desktop\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\USER\Desktop\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\USER\Desktop\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\USER\Desktop\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\USER\Desktop\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\USER\Desktop\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+D:\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+D:\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+D:\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fate\Desktop\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Fate\Desktop\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fate\Desktop\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Fate\Desktop\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Fate\Desktop\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Fate\Desktop\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Fate\Desktop\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Fate\Desktop\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Fate\Desktop\Code\售服管理程式\20181003_售服問題創資料夾\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fate\Desktop\Code\AfterSalesProblem\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Fate\Desktop\Code\AfterSalesProblem\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Fate\Desktop\Code\AfterSalesProblem\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Fate\Desktop\Code\AfterSalesProblem\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Fate\Desktop\Code\AfterSalesProblem\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Fate\Desktop\Code\AfterSalesProblem\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache
+C:\Users\Fate\Desktop\Code\AfterSalesProblem\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Fate\Desktop\Code\AfterSalesProblem\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Fate\Desktop\Code\AfterSalesProblem\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
